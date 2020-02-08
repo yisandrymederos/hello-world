@@ -1,2 +1,2 @@
-# hello-world(first brach line)
+# hello-world
 first git project
